@@ -1,7 +1,7 @@
 ﻿clear
 # Load the Selenium .Net library
 Add-Type -Path "C:\Users\CARDENAS MEZA\Documents\Web\selenium\lib\net45\WebDriver.dll" # or wherever your WebDriver.dll is
- 
+# https://www.seleniumhq.org/download/ C# dotnet 
 # Set the PATH to ensure IEDriverServer.exe can found
 $env:PATH += ";C:\Users\CARDENAS MEZA\Documents\Web\selenium\lib\net45"
 
